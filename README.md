@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Codecademy UI
 
-UI clone of Codecademy, which is known for its eye-catchy user interface.
+UI clone of Codecademy, that is known for its eye-catchy user interface.
 
 > Language: JavaScript, TypeScript and CSS \
 > Frameworks: React18 \
