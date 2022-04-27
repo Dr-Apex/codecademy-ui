@@ -8,7 +8,7 @@ UI clone of Codecademy, which is known for its eye-catchy user interface.
 > Frameworks: React18 \
 > CSS Pre-Processor: SCSS
 
-Try the live demo!
+[Try the live demo!](https://codecademy-ui.netlify.app/)
 
 ### To Run Locally:
 Clone the repository and perform the following command line actions in the root directory:
